@@ -23,5 +23,5 @@ def write_datetime_to_file(filename="datetime.txt"):
 if __name__ == "__main__":
     # write_datetime_to_file()  # Writes to datetime.txt
     # Or specify a filename:
-    write_datetime_to_file("my_log_file.txt")
+    write_datetime_to_file("my_log_file3.txt")
 
